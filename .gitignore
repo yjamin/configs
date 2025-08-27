@@ -5,3 +5,6 @@
 !.gitignore
 !.yabairc
 !.config/skhd/skhdrc
+!vscode
+!vscode/settings.json
+!vscode/keybindings.json
